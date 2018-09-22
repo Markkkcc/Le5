@@ -1,5 +1,5 @@
 token=NDkzMTUwNjMxMDM3NjMyNTE2.Dogyhw.aqDzOjEmDNoK_2J0GlDodQfsi9I
 owner=466858375544832001 
-prefix=si
-game=siplay
+prefix=is
+game=isplay
 stayinchannel=true
